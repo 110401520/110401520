@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-[Markdown Live Preview]([https://markdownlivepreview.com/](https://github.com/110401520/110401520.github.io)).
+<a href="https://github.com/110401520/110401520.github.io" target="_blank">匯率計算機<a>
